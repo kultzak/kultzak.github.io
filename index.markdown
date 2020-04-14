@@ -4,13 +4,13 @@ title: "Adriano Kultzak"
 # permalink: /about/
 ---
 
-Interested in metaheuristics and optimization problems!!
+Hi, I'm a programmer, insterested in metaheuristics, optimization problems and other things like generative art and psychology....!!
 
 <div class="divider"></div>
 
 <!-- <a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}" title="Email me">Click here to send me an email!</a> -->
 
-<center>{% include social-media-links.html %}</center>
+<center style="font-size: 25px !important">{% include social-media-links.html %}</center>
 
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
