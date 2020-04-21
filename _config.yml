@@ -29,7 +29,9 @@ email: adriano_fk@hotmail.com
 twitter_username: jekyllrb
 github_username:  jekyll
 # Site Info
-# title:              "Titulo"
+title:         
+    # en: "Title" #comentado pois da erro no feed.xml
+    # pt-br: "Título"
 description:        "A minimalist Jekyll theme"
 author_name:        "Adriano Kultzak" # change this to your name
 logo_url:           /assets/icon.png # Get it from GitHub API: https://api.github.com/users/<username>
@@ -68,7 +70,7 @@ remote_theme: kultzak/the-plain
 # Site Settings
 url:                https://kultzak.github.io # main url
 # baseurl:            /the-plain
-permalink:          /:title # Post permalink
+# permalink:          /:categories/:year/:month/:day/:title # Post permalink
 timezone:           America/Sao_Paulo # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
 

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Adriano Kultzak | Blog
-permalink: /blog
-lang: en
+permalink: /blog-pt
+lang: pt-br
 ref: blo
 ---
 

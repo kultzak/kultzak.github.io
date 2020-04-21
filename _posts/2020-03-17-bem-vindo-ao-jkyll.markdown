@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll! (I don't have posts yet.)"
+title:  "Bem vindo ao Jekyll! (Ainda não tenhos posts.)"
 date:   2019-03-19 19:54:27 -0300
 categories: jekyll update
-lang: en
+tags: [bolsonaro, text generation]
+lang: pt-br
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

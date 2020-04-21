@@ -1,12 +1,12 @@
 ---
 layout: page
 title: "Adriano Kultzak"
-# permalink: /index/
-lang: en
+# permalink: /about/
+lang: pt-br
 ref: ind
 ---
 
-Hi, I'm a programmer, insterested in metaheuristics, optimization problems and other things like generative art and psychology....!!
+Olá, Sou programador, interessado em metaheuristicas, problemas de otimização e outras coisas  como arte generativa e psicologia....!!
 
 <div class="divider"></div>
 
