@@ -6,7 +6,7 @@ lang: en
 ref: ind
 ---
 
-Hi, I'm a programmer, insterested in metaheuristics, optimization problems and other things like generative art and psychology....!!
+Hi, I'm a programmer, insterested in metaheuristics, optimization problems and other things like generative and open source....!!
 
 <div class="divider"></div>
 
