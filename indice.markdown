@@ -6,7 +6,7 @@ lang: pt-br
 ref: ind
 ---
 
-Olá, Sou programador, interessado em metaheuristicas, problemas de otimização e outras coisas  como arte generativa e psicologia....!!
+Olá, Sou programador, interessado em metaheuristicas, problemas de otimização e outras coisas  como arte generativa e código aberto....!!
 
 <div class="divider"></div>
 
