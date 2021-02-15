@@ -10,15 +10,11 @@ ref: blo
 
 	{% assign posts=site.posts | where:"lang", page.lang %}
 	{% for post in posts %}
-		{% unless post.next %}
+		{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+		{% if year != nyear %}
 			<h3 class="code">{{ post.date | date: '%Y' }}</h3>
-		{% else %}
-			{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-			{% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-			{% if year != nyear %}
-				<h3 class="code">{{ post.date | date: '%Y' }}</h3>
-			{% endif %}
-		{% endunless %}
+			{% capture nyear %}{{ year }}{% endcapture %}
+		{% endif %}
 
 		<ul>
 			<li>
