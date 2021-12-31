@@ -43,6 +43,8 @@ plugins:
   - jekyll-remote-theme
 
 remote_theme: kultzak/the-plain
+# Google Analytics
+google_analytics: G-BVGS2NWEQL
 
 # Exclude from processing.
 # The following items will not be processed, by default.
