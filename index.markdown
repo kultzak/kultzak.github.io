@@ -6,7 +6,7 @@ lang: en
 ref: ind
 ---
 
-Hi, I'm a programmer, insterested in metaheuristics, optimization problems and other things like generative art and open source....!!
+Hi, I'm a programmer interested in debugging and learning about Linux kernel, open source projects, metaheuristics, and embedded devices. Feel free to check my blog posts!
 
 <div class="divider"></div>
 
