@@ -6,7 +6,7 @@ lang: pt-br
 ref: ind
 ---
 
-Olá, sou programador, interessado em metaheuristicas, problemas de otimização e outras coisas  como arte generativa e código aberto....!!
+Olá, sou um programador interessado em depurar e aprender sobre o kernel Linux, projetos de código aberto, metaheurísticas e dispositivos embarcados. Sinta-se à vontade para conferir meus artigos no blog!
 
 <div class="divider"></div>
 
