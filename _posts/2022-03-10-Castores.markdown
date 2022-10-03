@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Castores"
+date:   2022-10-03 18:00:05 -0300
+categories: biologia
+tags: [beaver]
+lang: pt-br
+ref: beavers
+---
+
+![Beaver](https://raw.githubusercontent.com/kultzak/kultzak.github.io/master/_assets/images/American_Beaver.jpg)
+
+Beavers...
+
+Os castores têm uma inquietude inata quando escutam o som da água despejada, pois identificam falhas em suas represas pelo som da água. Quanto melhor a barragem, mais silenciosa será. É um fato que este comportamento dá aos castores uma grande força paisagística que eles usam como proteção contra predadores.
+
+É interessante pensar no processo evolutivo que direcionou o comportamento dos castores e como este passou de uma geração para outra até chegarmos ao comportamento atual.
+
+Que tipo de estrutura de pensamento faz com que eles tomem uma ação para limitar o vazamento? Seria algo semelhante a indignação, senso de dever, ou alguma forma de instinto básico que pouco se asemelha aos sentimentos humanos?
+
+E aqui temos um link que apresenta um comportamento humano. Cair do topo de uma ribanceira(e talvez da própria cadeia alimentar) perseguindo uma roda de queijo.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gNj67kwWBoQ" frameborder="0" allowfullscreen></iframe>

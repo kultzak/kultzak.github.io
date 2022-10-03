@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Beavers"
+date:   2022-10-03 18:00:05 -0300
+categories: biology
+tags: [beaver]
+lang: en
+ref: beavers
+---
+
+![Beaver](https://raw.githubusercontent.com/kultzak/kultzak.github.io/master/_assets/images/American_Beaver.jpg)
+
+Beavers...
+
+Beavers have an inate inquietude when listeenning water pouring sound since they identify flaws in its dams by the sound of water. The better the dam the quieter. Its a fact that this behavior gives to beavers a lot of landscaping power which they use as protection against predators.
+
+It is interesting to think about the evolutionary process that has directed the behavior of beavers and how this has passed from one generation to the next until we arrive at the current behavior.
+
+What kind of thought structure causes them to take action to limit the leak? Is it something akin to indignation, a sense of duty, or some form of basic instinct that bears little resemblance to human feelings?
+
+By a similar way of thinking we can imagine how our specie get to the top of food chain, what kind of tools were first developed and what kind of strategies. Unlike other species of primates our beta males are able to take out of power any alpha dominant. 
+
+And here we have a link that presents human behavior. Falling off the top of a cliff(and perhaps the food chain itself) chasing a wheel of cheese.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gNj67kwWBoQ" frameborder="0" allowfullscreen></iframe>
