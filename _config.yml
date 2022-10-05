@@ -32,9 +32,9 @@ github_username:  jekyll
 title:         
     # en: "Title" #comentado pois da erro no feed.xml
     # pt-br: "Título"
-description:        "A minimalist Jekyll theme"
+description:        "My personal page"
 author_name:        "Adriano Kultzak" # change this to your name
-logo_url:           /assets/icon.png # Get it from GitHub API: https://api.github.com/users/<username>
+logo_url:           /assets/icon.webp # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Build settings
 theme: minima
