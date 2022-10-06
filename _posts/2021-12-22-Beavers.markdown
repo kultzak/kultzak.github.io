@@ -8,7 +8,7 @@ lang: en
 ref: beavers
 ---
 
-![Beaver](https://raw.githubusercontent.com/kultzak/kultzak.github.io/master/_assets/images/American_Beaver.jpg)
+![Beaver](https://raw.githubusercontent.com/kultzak/kultzak.github.io/master/_assets/images/American_Beaver.webp)
 
 Beavers...
 
