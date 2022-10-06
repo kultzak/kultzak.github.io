@@ -6,7 +6,7 @@ lang: en
 ref: ind
 ---
 
-Hi, I'm a programmer interested in debugging and learning about Linux kernel, open source projects, metaheuristics, and embedded devices. Feel free to check my blog posts!
+Hi, I’m a programmer constantly debugging and learning about Linux kernel, open source projects, (meta)heuristics, and embedded devices. Hey, check my blog (tech and miscellaneous topics)!
 
 <div class="divider"></div>
 
