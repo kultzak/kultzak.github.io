@@ -23,4 +23,9 @@ My first contact with flood-it was in a college exercise, the professor gave us 
 
 A good game strategy is always trying to reach the farthest square from the flooding region. And the optimal solution can be obtained using A* algorithm at the cost of its exponential memory complexity. Back then I was studying Genetic Algorithms, so I use one as my first approach.
 
-Continue.....
+A genetic algorithm is a natural selection based strategy to solve optimization problems. It evolves a **population with individuals that represent solutions**, for that is necessary that solutions are encoded as sets of parameter called genes, specifically when considering flood-it a solution is a sequence of colors that we can index by numbers so each number represents a gene.
+
+Since a solution can be represented as a sequence of numbers we can create an initial population by randomly selecting numbers(colors) in the board's available range. A random sequence of numbers do not give us any guarantee that the board will be flooded so is necessary to evaluate each solution generated.
+
+
+Under construction...
