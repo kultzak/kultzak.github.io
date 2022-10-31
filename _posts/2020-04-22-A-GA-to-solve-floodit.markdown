@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A genetic algorithm to solve the game flood-it"
-date:   2020-04-22 10:00:01 -0300
+date:   2022-10-31 10:00:01 -0300
 categories: floodit genetic-algorithm
 tags: [floodit, genetic algorithm]
 lang: en
@@ -25,7 +25,7 @@ A good game strategy is always trying to reach the farthest square from the floo
 
 A genetic algorithm is a natural selection based strategy to solve optimization problems. It evolves a **population with individuals that represent solutions**, for that is necessary that solutions are encoded as sets of parameter called genes, specifically when considering flood-it a solution is a sequence of colors that we can index by numbers so each number represents a gene.
 
-Since a solution can be represented as a sequence of numbers we can create an initial population by randomly selecting numbers(colors) in the board's available range. A random sequence of numbers do not give us any guarantee that the board will be flooded so is necessary to evaluate each solution generated.
+Considering a solution represented as a sequence of numbers we can create an initial population by randomly selecting numbers(colors) in the board's available range. A random sequence of numbers do not give us any guarantee that the board will be flooded so is necessary to  check at each new gene added to the individual if the board was flooded.
 
 
 Under construction...
