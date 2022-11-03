@@ -8,6 +8,8 @@ ref: ind
 
 Olá, sou um programador constantemente depurando e aprendendo sobre kernel Linux, projetos de código aberto, (meta)heurísticas e dispositivos embarcados. Ei, verifique meu blog (tópicos técnicos e outros assuntos)!
 
+Uma lista de <a href="{{ "/booklist-pt" | prepend: site.baseurl | prepend: site.url }}">livros</a> que li até agora.
+
 <div class="divider"></div>
 
 

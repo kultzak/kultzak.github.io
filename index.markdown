@@ -8,6 +8,8 @@ ref: ind
 
 Hi, I’m a programmer constantly debugging and learning about Linux kernel, open source projects, (meta)heuristics, and embedded devices. Hey, check my blog (tech and miscellaneous topics)!
 
+A list of <a href="{{ "/booklist" | prepend: site.baseurl | prepend: site.url }}">books</a> I've read so far.
+
 <div class="divider"></div>
 
 
