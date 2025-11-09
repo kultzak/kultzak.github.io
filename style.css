@@ -1,0 +1,43 @@
+/* Simple landing page style */
+body {
+  font-family: system-ui, sans-serif;
+  background: linear-gradient(135deg, #0d1117, #1e2329);
+  color: #f0f6fc;
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+main {
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+p {
+  margin: 1rem 0;
+  color: #c9d1d9;
+}
+
+.links {
+  margin-top: 1rem;
+}
+
+.btn {
+  display: inline-block;
+  margin: 0.5rem;
+  padding: 0.6rem 1.2rem;
+  background: #238636;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 0.4rem;
+  transition: background 0.2s;
+}
+
+.btn:hover {
+  background: #2ea043;
+}
